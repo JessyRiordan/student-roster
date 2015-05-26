@@ -1,6 +1,6 @@
-# [Full Name](https://github.com/USERNAME)
+# [Devan Kestel](https://github.com/devankestel)
 
-![Full Name](URL-to-IMAGE)]
+![Devan Kestel](https://avatars1.githubusercontent.com/u/10345502?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
@@ -24,9 +24,3 @@
 | _zodiac_ | --- |
 | _spirit animal_ | --- |
 | _celeb birthday_ | --- |
-
-## Randomness
-
-| category | value |
-|----------|-------|
-| _handedness_:hand: | right or left |
